@@ -1,0 +1,40 @@
+{
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-03-16 17:11:59 -0400"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2019-03-16 17:11:19 -0400",
+      "inv_changed-enderio:power_conduit2": "2019-03-16 17:10:44 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-03-16 17:13:11 -0400"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-03-16 17:10:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2019-03-16 17:08:34 -0400",
+      "plains": "2019-03-16 17:10:54 -0400"
+    },
+    "done": false
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2019-03-16 17:11:19 -0400"
+    },
+    "done": true
+  }
+}

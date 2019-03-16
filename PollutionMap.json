@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "chunkX": -11,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 28.209908,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 762.4038,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 118.0559,
+        "water": 15.6,
+        "soil": 49.399998
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 38.272938,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 38.272938,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 30.375036,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    }
+  ]
+}
