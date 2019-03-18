@@ -4,54 +4,90 @@
       "chunkX": -11,
       "chunkZ": -10,
       "pollution": {
-        "air": 28.209908,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 95.854576,
+        "water": 28.93482,
+        "soil": 61.62771
       }
     },
     {
       "chunkX": -13,
       "chunkZ": -10,
       "pollution": {
-        "air": 762.4038,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 135.38058,
+        "water": 30.714521,
+        "soil": 61.630928
       }
     },
     {
       "chunkX": -12,
       "chunkZ": -10,
       "pollution": {
-        "air": 40.0559,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 174.5515,
+        "water": 55.021492,
+        "soil": 658.6379
       }
     },
     {
       "chunkX": -14,
       "chunkZ": -10,
       "pollution": {
-        "air": 38.272938,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 42.457745,
+        "water": 7.7286196,
+        "soil": 2.8487382
       }
     },
     {
       "chunkX": -13,
       "chunkZ": -11,
       "pollution": {
-        "air": 38.272938,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 91.84381,
+        "water": 15.329686,
+        "soil": 5.7381253
       }
     },
     {
       "chunkX": -13,
       "chunkZ": -9,
       "pollution": {
-        "air": 30.375036,
-        "water": 0.0,
-        "soil": 0.0
+        "air": 15.665791,
+        "water": 15.329577,
+        "soil": 5.738118
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 118.96632,
+        "water": 28.516891,
+        "soil": 61.366287
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 92.68436,
+        "water": 28.516445,
+        "soil": 61.366188
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 62.92105,
+        "water": 14.768754,
+        "soil": 5.671442
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 8.87077,
+        "water": 14.7671585,
+        "soil": 5.6709895
       }
     }
   ]
