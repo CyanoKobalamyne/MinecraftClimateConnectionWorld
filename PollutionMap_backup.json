@@ -4,90 +4,1143 @@
       "chunkX": -11,
       "chunkZ": -10,
       "pollution": {
-        "air": 95.854576,
-        "water": 28.93482,
-        "soil": 61.62771
+        "air": 33335.16,
+        "water": 1787.9023,
+        "soil": 6683.899
       }
     },
     {
-      "chunkX": -13,
+      "chunkX": -10,
       "chunkZ": -10,
       "pollution": {
-        "air": 135.38058,
-        "water": 30.714521,
-        "soil": 61.630928
+        "air": 7998.0205,
+        "water": 36.888985,
+        "soil": 15813.757
       }
     },
     {
       "chunkX": -12,
       "chunkZ": -10,
       "pollution": {
-        "air": 174.5515,
-        "water": 55.021492,
-        "soil": 658.6379
+        "air": 14287.396,
+        "water": 36.848965,
+        "soil": 49.73636
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 7656.85,
+        "water": 36.858196,
+        "soil": 15569.425
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 8081.937,
+        "water": 36.94934,
+        "soil": 50.162785
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 3974.5896,
+        "water": 1.3158699,
+        "soil": 240091.62
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 5181.619,
+        "water": 1.2548975,
+        "soil": 503.20306
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 5640.3965,
+        "water": 1.2969959,
+        "soil": 1.1757332
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 4368.724,
+        "water": 1.37614,
+        "soil": 514.08276
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 4598.4473,
+        "water": 0.64548594,
+        "soil": 0.7672599
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 2213.4124,
+        "water": 0.69098467,
+        "soil": 1021.02185
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 3394.4365,
+        "water": 0.72160345,
+        "soil": 8597.978
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 2902.2983,
+        "water": 0.70499134,
+        "soil": 0.9837343
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 2473.9824,
+        "water": 0.03170229,
+        "soil": 11.119641
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 2910.8137,
+        "water": 0.083393715,
+        "soil": 0.05589163
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 2284.2393,
+        "water": 0.09430987,
+        "soil": 131821.11
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 2730.7874,
+        "water": 0.2970452,
+        "soil": 277.7424
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 2285.5813,
+        "water": 0.0804081,
+        "soil": 11.4118595
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 2089.8623,
+        "water": 0.10259963,
+        "soil": 526.666
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 1686.9965,
+        "water": 0.3443962,
+        "soil": 15760.553
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 1599.2848,
+        "water": 0.037522968,
+        "soil": 33.376617
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 2380.2344,
+        "water": 0.15698357,
+        "soil": 0.38577554
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 580.23206,
+        "water": 0.021311754,
+        "soil": 283.68256
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 1526.5756,
+        "water": 0.18826465,
+        "soil": 8080.171
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 1281.3723,
+        "water": 0.06415037,
+        "soil": 8585.021
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 645.10114,
+        "water": 0.06517023,
+        "soil": 522.99945
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1885.1993,
+        "water": 0.06260916,
+        "soil": 6.116916
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 980.8825,
+        "water": 0.045044422,
+        "soil": 531.1279
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 2156.6028,
+        "water": 0.19623883,
+        "soil": 17.551327
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1777.9784,
+        "water": 0.11878182,
+        "soil": 0.6368722
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 871.60846,
+        "water": 0.054634072,
+        "soil": 260.29477
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 1333.7019,
+        "water": 0.10783652,
+        "soil": 17.074478
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 486.81973,
+        "water": 0.019020202,
+        "soil": 17.492672
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -14,
+      "pollution": {
+        "air": 222.91605,
+        "water": 0.014630536,
+        "soil": 6.108227
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 529.3797,
+        "water": 0.011884773,
+        "soil": 17.279696
       }
     },
     {
       "chunkX": -14,
       "chunkZ": -10,
       "pollution": {
-        "air": 42.457745,
-        "water": 7.7286196,
-        "soil": 2.8487382
+        "air": 2576.8706,
+        "water": 0.0848033,
+        "soil": 0.06594032
       }
     },
     {
-      "chunkX": -13,
-      "chunkZ": -11,
-      "pollution": {
-        "air": 91.84381,
-        "water": 15.329686,
-        "soil": 5.7381253
-      }
-    },
-    {
-      "chunkX": -13,
+      "chunkX": -14,
       "chunkZ": -9,
       "pollution": {
-        "air": 15.665791,
-        "water": 15.329577,
-        "soil": 5.738118
-      }
-    },
-    {
-      "chunkX": -12,
-      "chunkZ": -11,
-      "pollution": {
-        "air": 118.96632,
-        "water": 28.516891,
-        "soil": 61.366287
-      }
-    },
-    {
-      "chunkX": -12,
-      "chunkZ": -9,
-      "pollution": {
-        "air": 92.68436,
-        "water": 28.516445,
-        "soil": 61.366188
+        "air": 2154.424,
+        "water": 0.1285377,
+        "soil": 0.43733442
       }
     },
     {
       "chunkX": -11,
-      "chunkZ": -11,
+      "chunkZ": -7,
       "pollution": {
-        "air": 62.92105,
-        "water": 14.768754,
-        "soil": 5.671442
+        "air": 1561.1663,
+        "water": 0.11071523,
+        "soil": 0.26061743
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1713.1194,
+        "water": 0.112310104,
+        "soil": 0.3353788
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 1721.7775,
+        "water": 0.12617555,
+        "soil": 0.8133261
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 2201.8247,
+        "water": 0.094093814,
+        "soil": 0.15680058
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1606.3173,
+        "water": 0.1275122,
+        "soil": 0.2640357
       }
     },
     {
       "chunkX": -11,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 553.4067,
+        "water": 0.06512442,
+        "soil": 34.059677
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 1955.1403,
+        "water": 0.02115545,
+        "soil": 0.1887306
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 2544.766,
+        "water": 0.15380144,
+        "soil": 0.7286797
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1653.6313,
+        "water": 0.061574936,
+        "soil": 0.31538323
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1540.5464,
+        "water": 0.11961301,
+        "soil": 0.35994083
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 226.49286,
+        "water": 0.00392236,
+        "soil": 0.57625616
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1153.246,
+        "water": 0.042587243,
+        "soil": 0.019846141
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1330.5337,
+        "water": 0.043216754,
+        "soil": 0.016336145
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 1374.2328,
+        "water": 0.067260005,
+        "soil": 0.31315702
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1524.253,
+        "water": 0.042582676,
+        "soil": 0.12314302
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 1161.9121,
+        "water": 0.041589104,
+        "soil": 0.027545547
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1428.2195,
+        "water": 0.07855977,
+        "soil": 0.28781563
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 835.23724,
+        "water": 0.06667416,
+        "soil": 0.22697861
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1143.7853,
+        "water": 0.044057623,
+        "soil": 0.02599686
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 751.0432,
+        "water": 0.03052029,
+        "soil": 0.011552574
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -14,
+      "pollution": {
+        "air": 192.00409,
+        "water": 0.011254235,
+        "soil": 11.660297
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 1014.8242,
+        "water": 0.036710225,
+        "soil": 0.022049086
+      }
+    },
+    {
+      "chunkX": -6,
       "chunkZ": -9,
       "pollution": {
-        "air": 8.87077,
-        "water": 14.7671585,
-        "soil": 5.6709895
+        "air": 835.5145,
+        "water": 0.06930344,
+        "soil": 0.03303925
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 695.9044,
+        "water": 0.027548835,
+        "soil": 0.019900959
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 550.7517,
+        "water": 0.01359694,
+        "soil": 0.001070472
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 577.8809,
+        "water": 0.022385629,
+        "soil": 0.009963703
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 536.7026,
+        "water": 0.009581601,
+        "soil": 5.6948245E-4
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 576.159,
+        "water": 0.019625155,
+        "soil": 0.102197796
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 1783.2069,
+        "water": 0.034544706,
+        "soil": 0.10397572
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1105.9812,
+        "water": 0.012551187,
+        "soil": 0.0069780205
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 2443.8196,
+        "water": 0.05377679,
+        "soil": 0.043435004
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1792.828,
+        "water": 0.043726586,
+        "soil": 0.043993108
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1302.8926,
+        "water": 0.055990797,
+        "soil": 0.12227519
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 549.9116,
+        "water": 0.07482839,
+        "soil": 0.22964272
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 700.07965,
+        "water": 0.020220887,
+        "soil": 0.0055244216
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 1327.8604,
+        "water": 0.03846812,
+        "soil": 0.0127869425
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 1080.5261,
+        "water": 0.07090711,
+        "soil": 0.12608309
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 1584.2661,
+        "water": 0.055916525,
+        "soil": 0.04110679
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 1202.748,
+        "water": 0.012890071,
+        "soil": 0.0025198357
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 546.57654,
+        "water": 0.0028330402,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 1168.1019,
+        "water": 0.01651898,
+        "soil": 0.004769828
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 596.114,
+        "water": 0.006585059,
+        "soil": 0.00166929
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 516.61774,
+        "water": 0.018594587,
+        "soil": 0.01032317
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 878.15344,
+        "water": 0.010471641,
+        "soil": 0.0054344344
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 535.4413,
+        "water": 0.2524,
+        "soil": 0.8218966
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 148.25328,
+        "water": 0.0059990324,
+        "soil": 0.0052715996
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 242.83582,
+        "water": 0.0060392497,
+        "soil": 0.0052715996
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 710.7074,
+        "water": 0.009980749,
+        "soil": 0.0053697997
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 778.4138,
+        "water": 0.004993413,
+        "soil": 0.01267634
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 429.94565,
+        "water": 0.017616672,
+        "soil": 0.0066422345
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 284.68405,
+        "water": 0.028088989,
+        "soil": 0.110067666
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -14,
+      "pollution": {
+        "air": 165.5173,
+        "water": 0.03157541,
+        "soil": 0.5891396
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 444.48352,
+        "water": 0.009807344,
+        "soil": 5.613886E-4
+      }
+    },
+    {
+      "chunkX": -2,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 245.26715,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 621.20984,
+        "water": 0.021583771,
+        "soil": 0.006050106
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 881.44904,
+        "water": 0.0027866259,
+        "soil": 0.74392694
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 367.25488,
+        "water": 0.0028009182,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -8,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 325.98627,
+        "water": 0.017412586,
+        "soil": 0.009290824
+      }
+    },
+    {
+      "chunkX": -5,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 247.93956,
+        "water": 0.012448339,
+        "soil": 7.0119696E-4
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 477.90686,
+        "water": 0.07556637,
+        "soil": 0.22960758
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 296.03525,
+        "water": 0.055447046,
+        "soil": 5.637573
+      }
+    },
+    {
+      "chunkX": -10,
+      "chunkZ": -4,
+      "pollution": {
+        "air": 202.54613,
+        "water": 0.030186523,
+        "soil": 0.11039113
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 221.49048,
+        "water": 0.0044847676,
+        "soil": 5.148358E-4
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 238.38315,
+        "water": 0.0036135495,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 165.79982,
+        "water": 0.0073865335,
+        "soil": 0.0036583857
+      }
+    },
+    {
+      "chunkX": -5,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 238.35455,
+        "water": 0.0040931567,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -12,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 376.75568,
+        "water": 0.01499206,
+        "soil": 1.1195974
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -11,
+      "pollution": {
+        "air": 173.52925,
+        "water": 0.0014910377,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -7,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 161.75336,
+        "water": 0.0058084354,
+        "soil": 6.2767096E-4
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 103.60865,
+        "water": 0.011202483,
+        "soil": 0.0049771015
+      }
+    },
+    {
+      "chunkX": -6,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 168.1067,
+        "water": 0.006508048,
+        "soil": 0.3711004
+      }
+    },
+    {
+      "chunkX": -16,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 147.76688,
+        "water": 1.5177089E-4,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -5,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 138.8893,
+        "water": 0.0012836318,
+        "soil": 8.2395796E-5
+      }
+    },
+    {
+      "chunkX": -15,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 154.01837,
+        "water": 4.138354E-4,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 141.39493,
+        "water": 0.006558543,
+        "soil": 0.0038929728
+      }
+    },
+    {
+      "chunkX": -9,
+      "chunkZ": -4,
+      "pollution": {
+        "air": 98.298134,
+        "water": 0.0076256604,
+        "soil": 0.0035563167
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 122.22252,
+        "water": 0.0032099057,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -5,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 142.05315,
+        "water": 0.05012145,
+        "soil": 0.017691528
+      }
+    },
+    {
+      "chunkX": -13,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 147.03249,
+        "water": 0.0026201913,
+        "soil": 0.023173114
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -10,
+      "pollution": {
+        "air": 91.48259,
+        "water": 0.0025188946,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -4,
+      "pollution": {
+        "air": 92.70577,
+        "water": 0.00573142,
+        "soil": 0.0027027403
+      }
+    },
+    {
+      "chunkX": -11,
+      "chunkZ": -14,
+      "pollution": {
+        "air": 14.419084,
+        "water": 0.009205725,
+        "soil": 0.6399437
+      }
+    },
+    {
+      "chunkX": -2,
+      "chunkZ": -8,
+      "pollution": {
+        "air": 67.09477,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -1,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 65.10907,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -3,
+      "chunkZ": -7,
+      "pollution": {
+        "air": 60.092342,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -2,
+      "chunkZ": -6,
+      "pollution": {
+        "air": 65.10907,
+        "water": 0.0,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -14,
+      "chunkZ": -5,
+      "pollution": {
+        "air": 79.637955,
+        "water": 0.0020746219,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -9,
+      "pollution": {
+        "air": 93.55082,
+        "water": 0.008612576,
+        "soil": 0.003693866
+      }
+    },
+    {
+      "chunkX": -17,
+      "chunkZ": -13,
+      "pollution": {
+        "air": 40.138878,
+        "water": 6.1879604E-4,
+        "soil": 0.0
+      }
+    },
+    {
+      "chunkX": -18,
+      "chunkZ": -12,
+      "pollution": {
+        "air": 32.910477,
+        "water": 2.2036752E-4,
+        "soil": 0.0
       }
     }
   ]
